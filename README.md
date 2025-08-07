@@ -30,7 +30,7 @@ I’m a mathematician, focussing on **probability theory** and exploring **mecha
 
 ## 💼 Projects & experience
 
-- **ETH Zürich** (2024) - Semester project on the sharpness of supercritical Bernoulli Percolation (supervised by Prof. Tassion and Dr. Severo)
+- **ETH Zürich** (2024) - Semester project on the sharpness of supercritical Bernoulli Percolation, supervised by Prof. Tassion and Dr. Severo. (see https://github.com/leonardvetter/leonardvetter/supercritical_percolation_sharpness.pdf)
 - **Fraunhofer IPA** (2021–2022) — Built an object detection and instance segmentation pipeline for a dismantling robot in PyTorch.
 - **5‑axis robot arm** — Designed, machined & programmed a desktop‑scale robot for pick‑and‑place tasks.
 - **Smart chicken door** — A solar‑powered IoT door that keeps the hens safe (and happy ⏰).
