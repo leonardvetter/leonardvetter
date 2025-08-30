@@ -16,6 +16,7 @@ I’m a mathematician, focussing on **probability theory** and exploring **mecha
 
 🚧 **Current Projects**  
 - 🤝 Collaborating with Florentin [@seiferfl](https://github.com/seiferfl) on a project implementing and dissecting toy models using mechanistic interpretability tools: (https://github.com/seiferfl/neural_circuit_lab)
+- Simulation of BGW-trees: [random_tree_simulation](https://github.com/leonardvetter/random_tree_simulation.git)
 -  Exploring, how neural networks do computation in superposition
 
 ---
