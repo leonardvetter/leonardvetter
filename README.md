@@ -48,7 +48,7 @@ I’m a mathematician, focussing on **probability theory** and exploring **mecha
 ---
 
 ## 🎓 Education
-
+- **Ph.D. Student**, KIT *(2025 - now)*
 - **M.Sc. Applied Mathematics**, ETH Zürich *(2023 - 2025)*
 - **B.Sc. Computer Science, Mathematics & Physics**, Humboldt‑Universität zu Berlin *(2019 - 2023)* 
 - **B.Eng. Mechanical Engineering**, DHBW Heidenheim *(2016 - 2019)* 
@@ -70,7 +70,7 @@ Climbing | Reading about science & tech | Sharing what I learn
 
 ## 📫 Get in touch
 
-**Email:** leonardvetter@web.de
+**Email:** vetter@kit.edu
 
 *Thanks for stopping by — feel free to fork 🍴, file an issue, or just say hi!*
 
