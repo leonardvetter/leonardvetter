@@ -1,4 +1,4 @@
-# Hi there, I’m Leonard Vetter 👋
+# Hi, I’m Leonard
 
 I’m a mathematician, focussing on **probability theory** and exploring **mechanistic interpretability of AI** through the lens of **random graph theory**. I love uncovering the hidden structure that lets complex systems (from neurons to networks) compute.
 
