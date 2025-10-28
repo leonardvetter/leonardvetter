@@ -8,7 +8,7 @@ I’m a mathematician, focussing on **probability theory** and exploring **mecha
 
 | Year | Title & link | Notes |
 |------|--------------|-------|
-| 2025 | **Condensation in subcritical Cauchy Bienaymé trees** <br>*(with Igor Kortchemski)* • [Electron. Commun. Probab. 30: 1-13 (2025). DOI: 10.1214/25-ECP726](https://doi.org/10.1214/25-ECP726) | Shows that the so called condensation phenomenon for BGW-trees also occurs in the case, where the offspring distribution belongs to the domain of attraction of a stable law of index 1. This completes the study of the height of heavy-tailed size-conditioned Bienaymé trees.
+| 2025 | **Condensation in subcritical Cauchy Bienaymé trees** <br>*(with Igor Kortchemski)* • Electron. Commun. Probab. 30: 1-13 (2025). DOI: [10.1214/25-ECP726](https://doi.org/10.1214/25-ECP726) | Shows that the so called condensation phenomenon for BGW-trees also occurs in the case, where the offspring distribution belongs to the domain of attraction of a stable law of index 1. This completes the study of the height of heavy-tailed size-conditioned Bienaymé trees.
 
 *Always looking for collaborations at the juncture of probability, random graphs & deep learning.*
 
